@@ -55,6 +55,10 @@ If you need help, open [EnvironmentVariables.md](EnvironmentVariables.md) for mo
 # Examples
 
 -  https://www.tiktok.com/@offland123/video/7336180548424994081?is_from_webapp=1&sender_device=pc&web_id=7218823782936528427 (topic: how many mens have a guy they can call 3am?)
-- https://www.tiktok.com/@offland123/video/7336184762119359776?is_from_webapp=1&sender_device=pc&web_id=7218823782936528427 (topic: Husband cheat on wife, and how to make them get back together)
-- https://www.tiktok.com/@offland123/video/7336178720136383776?is_from_webapp=1&sender_device=pc&web_id=7218823782936528427 (topic: how to write a good CVPR paper)
+-  https://www.tiktok.com/@offland123/video/7336184762119359776?is_from_webapp=1&sender_device=pc&web_id=7218823782936528427 (topic: Husband cheat on wife, and how to make them get back together)
+-  https://www.tiktok.com/@offland123/video/7336178720136383776?is_from_webapp=1&sender_device=pc&web_id=7218823782936528427 (topic: how to write a good CVPR paper)
+
+## Contributing
+
+The majority is from https://github.com/FujiwaraChoki/MoneyPrinter. 
 
